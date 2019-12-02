@@ -1,0 +1,2 @@
+class FileFormatException extends Exception {
+}

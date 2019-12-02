@@ -1,0 +1,6 @@
+Apple    2 2
+Orange 3    3
+Apple    2 2
+Orange 3    3
+Apple    2 2
+Orange 3    3
